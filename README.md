@@ -1,4 +1,6 @@
 ImGuiNET & 'ClickableTransparentOverlay' C# Multihack for Assault Cube 1.3.0.2
+Uses Swed32.dll.
+
 Lost interest so it looks shit and doesn't run amazingly, aimbot sometimes does 180s.
 
 Features - 
